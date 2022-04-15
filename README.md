@@ -11,7 +11,7 @@ This repository is the implementation of IJCKG 2021 paper: [FedE: Embedding Know
 + NumPy
 + tqdm
 
-## Date 
+## Data
 We put our experimential datasets in ``./data``, and give data details in its README.
 
 ## Training and Testing
